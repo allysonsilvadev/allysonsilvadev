@@ -1,53 +1,60 @@
-# 👋 Olá, eu sou o Allyson!
+<!-- Banner opcional (podemos trocar depois) -->
+<p align="center">
+  <img src="https://i.imgur.com/qBL1N1F.gif" width="600">
+</p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória para me tornar **Desenvolvedor Back-end**.  
-Aqui no GitHub você vai encontrar meus projetos, estudos e evolução contínua na área de tecnologia.
+<h1 align="center">👾 Hey! Eu sou o Allyson.</h1>
 
----
-
-### 🚀 Tecnologias que estou aprendendo / praticando
-
-- **C#**
-- **Java**
-- **SQL / Banco de Dados**
-- Redes e Segurança da Informação
-- Lógica de Programação e Estruturas de Dados
+<p align="center">
+  <b>Desenvolvedor em evolução • Back-end • C# • Java • SQL</b>
+</p>
 
 ---
 
-### 💻 Projetos em Destaque
+### 🚀 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNICURITIBA)**
+- 🧠 Estudo atualmente **C#, Java, SQL e Redes**
+- 💡 Foco em construir **projetos reais** e aprender todos os dias
+- 🎯 Objetivo: **Desenvolvedor Back-end Jr**
 
-| Projeto | Descrição | Linguagem |
-|--------|-----------|-----------|
-| 🎮 **JogoDeVideoGame** | Sistema simples para gerenciamento de jogos | C# |
-| 🧊 **ListaDeCubosMagicos** | Organização de coleção de cubos mágicos | C# |
-| 🔐 **VerificacaoLogin** | Verificação de login e credenciais | C# |
+---
 
-👉 Veja meus repositórios completos aqui:  
+### 🧰 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java,dotnet,mysql,git,github,visualstudio,vscode" />
+</p>
+
+---
+
+### 🎮 Projetos em Destaque
+
+| Repositório | Descrição | Tecnologia |
+|------------|-----------|------------|
+| 🧊 **ListaDeCubosMagicos** | Gerenciamento de coleção de cubos | C# |
+| 🔐 **VerificacaoLogin** | Sistema simples de autenticação | C# |
+| 🎮 **JogoDeVideoGame** | Lista de jogos com ações básicas | C# |
+
+👉 Explore todos os meus projetos:  
 https://github.com/allysonsilvadev?tab=repositories
 
 ---
 
-### 📚 O que estou estudando agora
+### 📈 Minhas estatísticas no GitHub
 
-- **Curso Superior:** Análise e Desenvolvimento de Sistemas – UNICURITIBA
-- **Inglês:** Wizard
-- Organização e estruturação de código
-- Boas práticas em desenvolvimento
-
----
-
-### 🎯 Objetivo Profissional
-
-Conseguir minha primeira oportunidade como **Desenvolvedor Back-end Jr**, contribuir com projetos reais e evoluir constantemente na área de tecnologia.
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=allysonsilvadev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonsilvadev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</div>
 
 ---
 
-### 🌎 Onde me encontrar
-
+### 🌐 Onde me encontrar
 **LinkedIn:** https://www.linkedin.com/in/allyson-silva-a5558b331  
 **E-mail:** allysonsilvap733@gmail.com
 
 ---
 
-> _"Todo dia é uma chance de evoluir."_ ✨
+<p align="center">
+  <b>_"Cada dia um passo. Evolução é constância."_ 🔥</b>
+</p>
