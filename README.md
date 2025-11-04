@@ -1,6 +1,5 @@
-<!-- Banner opcional (podemos trocar depois) -->
 <p align="center">
-  <img src="https://i.imgur.com/qBL1N1F.gif" width="600">
+  <img src="https://i.imgur.com/Vd6H6yb.gif" width="600">
 </p>
 
 <h1 align="center">👾 Hey! Eu sou o Allyson.</h1>
