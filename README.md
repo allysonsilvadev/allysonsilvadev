@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/allyson-assets/cdn/main/banners/cyber-purple-wave.gif" width="600">
-</p>
-
 <h1 align="center">👾 Hey! Eu sou o Allyson.</h1>
 
 <p align="center">
