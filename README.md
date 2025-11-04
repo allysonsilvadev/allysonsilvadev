@@ -32,7 +32,7 @@
 |------------|-----------|------------|
 | 🧊 **ListaDeCubosMagicos** | Gerenciamento de coleção de cubos | C# |
 | 🔐 **VerificacaoLogin** | Sistema simples de autenticação | C# |
-| 🎮 **JogoDeVideoGame** | Lista de jogos com ações básicas | C# |
+| 🎮 **JogoDeVideoGame** | Lista de jogos com funcionalidades básicas | C# |
 
 👉 Explore todos os meus projetos:  
 https://github.com/allysonsilvadev?tab=repositories
