@@ -1,55 +1,44 @@
-<h1 align="center">👾 Hey! Eu sou o Allyson.</h1>
+# 👋 Olá! Eu sou o Allyson
 
-<p align="center">
-  <b>Desenvolvedor em evolução • Back-end • C# • Java • SQL</b>
-</p>
+🎓 Estudante de Desenvolvimento de Software na **UniCuritiba**  
+💻 Atualmente estudando **C#**, **Python** e **Banco de Dados MySQL**  
+🚀 Rumo a me tornar **Engenheiro de Software**  
 
----
-
-### 🚀 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNICURITIBA)**
-- 🧠 Estudo atualmente **C#, Java, SQL e Redes**
-- 💡 Foco em construir **projetos reais** e aprender todos os dias
-- 🎯 Objetivo: **Desenvolvedor Back-end Jr**
+Sou apaixonado por tecnologia e pela criação de soluções que agregam valor.  
+Gosto de aprender, construir e evoluir um pouco todos os dias.
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,dotnet,mysql,git,github,visualstudio,vscode" />
-</p>
-
----
-
-### 🎮 Projetos em Destaque
-
-| Repositório | Descrição | Tecnologia |
-|------------|-----------|------------|
-| 🧊 **ListaDeCubosMagicos** | Gerenciamento de coleção de cubos | C# |
-| 🔐 **VerificacaoLogin** | Sistema simples de autenticação | C# |
-| 🎮 **JogoDeVideoGame** | Lista de jogos com funcionalidades básicas | C# |
-
-👉 Explore todos os meus projetos:  
-https://github.com/allysonsilvadev?tab=repositories
+| Linguagens | Banco de Dados | Ferramentas |
+|-----------|----------------|-------------|
+| C# • Python | MySQL | Git • GitHub • Visual Studio • VS Code |
 
 ---
 
-### 📈 Minhas estatísticas no GitHub
+### 📚 O que estou estudando agora
+- Programação Orientada a Objetos (POO)
+- Estruturas de Dados
+- Boas práticas e padrões de código
+- Desenvolvimento de sistemas com C#
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=allysonsilvadev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonsilvadev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+---
+
+### 📈 Estatísticas do GitHub
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allysonsilvadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonsilvadev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
 ### 🌐 Onde me encontrar
-**LinkedIn:** https://www.linkedin.com/in/allyson-silva-a5558b331  
-**E-mail:** allysonsilvap733@gmail.com
+💼 LinkedIn: **https://www.linkedin.com/in/SEU-LINK**  
+✉️ Email: **SEU-EMAIL**  
 
 ---
 
-<p align="center">
-  <b>_"Cada dia um passo. Evolução é constância."_ 🔥</b>
-</p>
+### ✨ Frase que me guia
+> *"Cada linha de código é um passo em direção ao meu futuro."*
+
