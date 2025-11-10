@@ -1,44 +1,70 @@
-# 👋 Olá! Eu sou o Allyson
+<!-- Banner -->
+<p align="center">
+  <img src="banner_minimalista.png" alt="Banner Allyson Silva">
+</p>
 
-🎓 Estudante de Desenvolvimento de Software na **UniCuritiba**  
-💻 Atualmente estudando **C#**, **Python** e **Banco de Dados MySQL**  
-🚀 Rumo a me tornar **Engenheiro de Software**  
-
-Sou apaixonado por tecnologia e pela criação de soluções que agregam valor.  
-Gosto de aprender, construir e evoluir um pouco todos os dias.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-| Linguagens | Banco de Dados | Ferramentas |
-|-----------|----------------|-------------|
-| C# • Python | MySQL | Git • GitHub • Visual Studio • VS Code |
+<h1 align="center">👋 Olá! Eu sou o <strong>Allyson Silva</strong></h1>
+<h3 align="center">Desenvolvedor em formação • C# | Python | MySQL • Futuro Engenheiro de Software</h3>
 
 ---
 
-### 📚 O que estou estudando agora
-- Programação Orientada a Objetos (POO)
-- Estruturas de Dados
-- Boas práticas e padrões de código
-- Desenvolvimento de sistemas com C#
+## 🚀 Sobre mim
+
+- 🎓 Estudante de **Desenvolvimento de Software** na **UniCuritiba**
+- 💻 Atualmente estudando **C#**, **Python** e **MySQL**
+- 🧱 Focado em desenvolvimento **Back-end** e boas práticas de código
+- 🎯 Objetivo: Evoluir até me tornar **Engenheiro de Software**
+- 🤝 Aberto a projetos, conexões e colaboração!
 
 ---
 
-### 📈 Estatísticas do GitHub
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allysonsilvadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonsilvadev&layout=compact&langs_count=7&theme=dracula"/>
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+### 👨‍💻 Linguagens
+<img src="https://skillicons.dev/icons?i=cs,python" height="48"/>
+
+### 🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+
+### 🧰 Ferramentas / Ambiente
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" height="48"/>
+
 </div>
 
 ---
 
-### 🌐 Onde me encontrar
-💼 LinkedIn: **https://www.linkedin.com/in/SEU-LINK**  
-✉️ Email: **SEU-EMAIL**  
+## 📚 Atualmente estudando
+
+- Programação Orientada a Objetos (POO)
+- Estruturas de Dados
+- Clean Code & Boas Práticas
+- Desenvolvimento Back-end com C#
 
 ---
 
-### ✨ Frase que me guia
-> *"Cada linha de código é um passo em direção ao meu futuro."*
+## 📊 Estatísticas do GitHub
 
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=allysonsilvadev&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonsilvadev&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 🌍 Onde me encontrar
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/allyson-silva-a5558b331
+- ✉️ **Email:** allysonsilvap733@gmail.com
+
+---
+
+## 💡 Frase que me inspira
+
+> *"Não importa quão devagar você vá, desde que você não pare."*
+
+---
+
+### 🤝 Conecte-se comigo!
+Se quiser trocar ideia, estudar junto ou colaborar em projetos — me chama! 😊
