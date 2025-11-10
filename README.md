@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner_minimalista.png" alt="Banner Allyson Silva">
-</p>
-
 <h1 align="center">👋 Olá! Eu sou o <strong>Allyson Silva</strong></h1>
 <h3 align="center">Desenvolvedor em formação • C# | Python | MySQL • Futuro Engenheiro de Software</h3>
 
@@ -12,9 +7,10 @@
 
 - 🎓 Estudante de **Desenvolvimento de Software** na **UniCuritiba**
 - 💻 Atualmente estudando **C#**, **Python** e **MySQL**
-- 🧱 Focado em desenvolvimento **Back-end** e boas práticas de código
+- 🧱 Interesse em desenvolvimento **Back-end**
+- 🧠 Buscando aprimorar lógica, arquitetura e boas práticas
 - 🎯 Objetivo: Evoluir até me tornar **Engenheiro de Software**
-- 🤝 Aberto a projetos, conexões e colaboração!
+- 🤝 Aberto a projetos e colaborações
 
 ---
 
@@ -35,7 +31,7 @@
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Atualmente Estudando
 
 - Programação Orientada a Objetos (POO)
 - Estruturas de Dados
