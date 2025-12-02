@@ -71,15 +71,9 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 💡 Frase que me inspira
 
-<div align="center">
-
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=allysonsilvadev&theme=tokyonight" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonsilvadev&layout=compact&theme=tokyonight"/>
-
-</div>
+> *"Grandes resultados começam com pequenos passos todos os dias."*
 
 ---
 
@@ -87,12 +81,6 @@
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/allyson-silva-a5558b331  
 - ✉️ **Email:** allysonsilvap733@gmail.com
-
----
-
-## 💡 Frase que me inspira
-
-> *"Não importa quão devagar você vá, desde que você não pare."*
 
 ---
 
