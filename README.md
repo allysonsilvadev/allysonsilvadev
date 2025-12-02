@@ -1,14 +1,14 @@
 <h1 align="center">👋 Olá! Eu sou o <strong>Allyson Silva</strong></h1>
-<h3 align="center">Desenvolvedor em formação • C# | Python | MySQL • Futuro Engenheiro de Software</h3>
+<h3 align="center">Desenvolvedor em formação • C# | Python | SQL • Futuro Engenheiro de Software</h3>
 
 ---
 
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniCuritiba**
-- 💻 Atualmente estudando **C#**, **Python**, **MySQL** e conceitos de sistemas
-- 🌐 Estudando **HTML5, CSS3 e JavaScript** por conta própria para fortalecer base em Front-end
-- 🇺🇸 Estudando **Inglês** na escola **Wizard** para melhorar comunicação e carreira
+- 💻 Atualmente estudando **C#**, **Python**, **MySQL**, **PostgreSQL** e **NoSQL**
+- 🌐 Aprendendo **HTML5, CSS3 e JavaScript** por conta própria para fortalecer base em Front-end
+- 🇺🇸 Estudando **Inglês** na escola **Wizard** para acelerar minha evolução profissional
 - 🧱 Interesse em desenvolvimento **Back-end** e arquitetura de software
 - 🧠 Focado em lógica, boas práticas, padrões de projeto e qualidade de código
 - 🎯 Objetivo: evoluir até me tornar **Engenheiro de Software**
@@ -24,7 +24,9 @@
 <img src="https://skillicons.dev/icons?i=cs,python,html,css,javascript" height="48"/>
 
 ### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" height="48"/>
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb" height="48"/> <!-- Representa NoSQL -->
 
 ### 🧰 Ferramentas / Ambiente
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" height="48"/>
@@ -38,7 +40,8 @@
 - Programação Orientada a Objetos (POO)
 - Estruturas de Dados
 - Clean Code & Boas Práticas
-- SQL e modelagem de banco de dados
+- SQL: **MySQL**, **PostgreSQL**
+- NoSQL: fundamentos e uso prático (**MongoDB**)
 - Desenvolvimento Back-end com C#
 - Fundamentos Front-end: **HTML5**, **CSS3**, **JavaScript**
 - Inglês para tecnologia (**Wizard**)
@@ -46,8 +49,6 @@
 ---
 
 ## 📌 Projetos em Destaque
-
-> *(Você pode adicionar mais projetos futuramente!)*
 
 - 🍕 **PedeAI** — Sistema inteligente para pedidos e entregas (C#/Modelagem)  
   https://github.com/allysonsilvadev/PedeAI  
@@ -60,11 +61,11 @@
 ## 🎯 Objetivos para 2025
 
 - ✔️ Aprimorar C# e .NET  
-- ✔️ Criar projetos completos Back-end  
+- ✔️ Criar APIs e sistemas completos Back-end  
 - ✔️ Fortalecer portfólio no GitHub  
-- ✔️ Estudar Front-end para complementar minha base  
+- ✔️ Evoluir em bancos de dados SQL e NoSQL  
 - ✔️ Melhorar inglês para oportunidades internacionais  
-- ✔️ Conseguir minha **primeira vaga na área de tecnologia**
+- ✔️ Conquistar minha **primeira vaga na área de tecnologia**
 
 ---
 
