@@ -26,7 +26,7 @@
 ### 🗄️ Banco de Dados
 <img src="https://skillicons.dev/icons?i=mysql,postgres" height="48"/>
 <br>
-<img src="https://skillicons.dev/icons?i=mongodb" height="48"/> <!-- Representa NoSQL -->
+<img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
 
 ### 🧰 Ferramentas / Ambiente
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" height="48"/>
@@ -50,11 +50,13 @@
 
 ## 📌 Projetos em Destaque
 
-- 🍕 **PedeAI** — Sistema inteligente para pedidos e entregas (C#/Modelagem)  
-  https://github.com/allysonsilvadev/PedeAI  
+- 🛒 **Projeto Banco de Dados – Loja (MySQL)**  
+  Modelagem e criação de um banco de dados simples para uma loja, incluindo DDL, DML, consultas SQL e o script completo do banco.  
+  🔗 https://github.com/allysonsilvadev/MySQL_Projeto_Loja  
 
-- 🗄️ **Banco de Funcionários (MariaDB/XAMPP)** — Criação e consultas SQL  
-  *(link será adicionado quando subir o repositório)*
+- 🎲 **ListaDeCubosMagicos (.NET/C#)**  
+  Aplicação desenvolvida em C# para gerenciar uma lista de cubos mágicos, treinando lógica, coleções, LINQ e boas práticas de programação.  
+  🔗 https://github.com/allysonsilvadev/ListaDeCubosMagicos  
 
 ---
 
@@ -72,8 +74,11 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=allysonsilvadev&show_icons=true&theme=tokyonight&count_private=true"/>
+
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=allysonsilvadev&theme=tokyonight" />
+
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonsilvadev&layout=compact&theme=tokyonight"/>
+
 </div>
 
 ---
