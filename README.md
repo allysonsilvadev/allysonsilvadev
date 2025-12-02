@@ -80,7 +80,8 @@
 ## 🌍 Onde me encontrar
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/allyson-silva-a5558b331  
-- ✉️ **Email:** allysonsilvap733@gmail.com
+- ✉️ **Email:** allysonsilvap733@gmail.com  
+- 📱 **WhatsApp:** (41) 99755-8903  
 
 ---
 
