@@ -67,7 +67,7 @@
 - ✔️ Fortalecer portfólio no GitHub  
 - ✔️ Evoluir em bancos de dados SQL e NoSQL  
 - ✔️ Melhorar inglês para oportunidades internacionais  
-- ✔️ Conquistar minha **primeira vaga na área de tecnologia**
+- ✔️ Conquistar minha **vaga como desenvolvedor Junior**
 
 ---
 
