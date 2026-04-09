@@ -6,7 +6,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniCuritiba**
-- 💻 Atualmente estudando **C#**, **Python**, **MySQL**, **PostgreSQL** e **NoSQL**
+- 💻 Atualmente estudando **TypeScript**,**C#**, **Python**, **MySQL**, **PostgreSQL** e **NoSQL**
 - 🌐 Aprendendo **HTML5, CSS3 e JavaScript** por conta própria para fortalecer base em Front-end
 - 🇺🇸 Estudando **Inglês** na escola **Wizard** para acelerar minha evolução profissional
 - 🧱 Interesse em desenvolvimento **Back-end** e arquitetura de software
