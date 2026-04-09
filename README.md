@@ -6,7 +6,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniCuritiba**
-- 💻 Atualmente estudando **TypeScript**,**C#**, **Python**, **MySQL**, **PostgreSQL** e **NoSQL**
+- 💻 Atualmente estudando **TypeScript**, **C#**, **Python**, **MySQL**, **PostgreSQL** e **NoSQL**
 - 🌐 Aprendendo **HTML5, CSS3 e JavaScript** por conta própria para fortalecer base em Front-end
 - 🇺🇸 Estudando **Inglês** na escola **Wizard** para acelerar minha evolução profissional
 - 🧱 Interesse em desenvolvimento **Back-end** e arquitetura de software
@@ -42,7 +42,7 @@
 - Clean Code & Boas Práticas
 - SQL: **MySQL**, **PostgreSQL**
 - NoSQL: fundamentos e uso prático (**MongoDB**)
-- Desenvolvimento Back-end com C#
+- Desenvolvimento Back-end com C#,TypeScript e Java
 - Fundamentos Front-end: **HTML5**, **CSS3**, **JavaScript**
 - Inglês para tecnologia (**Wizard**)
 
@@ -60,17 +60,6 @@
 
 ---
 
-## 🎯 Objetivos para 2025
-
-- ✔️ Aprimorar C# e .NET  
-- ✔️ Criar APIs e sistemas completos Back-end  
-- ✔️ Fortalecer portfólio no GitHub  
-- ✔️ Evoluir em bancos de dados SQL e NoSQL  
-- ✔️ Melhorar inglês para oportunidades internacionais  
-- ✔️ Conquistar minha **vaga como desenvolvedor Junior**
-
----
-
 ## 💡 Frase que me inspira
 
 > *"Grandes resultados começam com pequenos passos todos os dias."*
@@ -82,8 +71,3 @@
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/allyson-silva-a5558b331  
 - ✉️ **Email:** allysonsilvap733@gmail.com  
 - 📱 **WhatsApp:** (41) 99755-8903  
-
----
-
-### 🤝 Conecte-se comigo!
-Se quiser trocar ideia, estudar junto ou colaborar em projetos — me chama! 😊
