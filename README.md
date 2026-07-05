@@ -1,118 +1,72 @@
 # 👋 Olá, eu sou Allyson!
 
+Desenvolvedor de Software em constante evolução, focado na construção de soluções web robustas e escaláveis. Atualmente atuando como **Estagiário de Desenvolvimento de Software**, unindo minha experiência anterior em infraestrutura e suporte com o desenvolvimento Full Stack.
+
+---
+
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💻 Estagiário de T.I com experiência em suporte técnico  
-- 🌐 Focado atualmente em Desenvolvimento Web (Full Stack)  
-- 📚 Estudando HTML5, CSS3, JavaScript e TypeScript  
-- ⚙️ Aprendendo Node.js, React e desenvolvimento de APIs REST/RESTful  
-- 🧠 Desenvolvendo lógica, boas práticas e organização de código  
-- 🇺🇸 Inglês avançado  
-- 🎯 Objetivo: me tornar um desenvolvedor de software completo  
-- 🤝 Aberto a oportunidades de estágio em desenvolvimento  
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas (UniCuritiba).
+- 💻 Estagiário de Desenvolvimento de Software.
+- 🌐 Focado no ecossistema Full Stack (JavaScript/TypeScript).
+- 🛠️ Especialista em resolver problemas técnicos com lógica estruturada.
+- 🇺🇸 Inglês avançado.
+- 🎯 Objetivo: Arquitetar sistemas eficientes e continuar crescendo como dev.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Linguagens
-- JavaScript  
-- TypeScript  
-- Python  
-- SQL  
+- JavaScript (ES6+), TypeScript, Python, C# (Base acadêmica).
 
 ### 🌐 Front-end
-- HTML5  
-- CSS3  
-- JavaScript  
-- React (em aprendizado)  
+- HTML5, CSS3, React.js.
 
-### ⚙️ Back-end
-- Node.js (em aprendizado)  
-- APIs REST / RESTful  
+### ⚙️ Back-end & APIs
+- Node.js, Express, APIs REST / RESTful.
 
-### 🗄️ Banco de Dados
-- MySQL  
-- NoSQL  
+### 🗄️ Bancos de Dados
+- **Relacionais:** MySQL, PostgreSQL.
+- **NoSQL:** MongoDB (Mongoose).
 
-### 🧰 Ferramentas
-- Git  
-- GitHub  
-- VS Code  
+### 🧰 Ferramentas & DevOps
+- Git, GitHub, VS Code, Postman (Testes de API).
 
 ---
 
-## 📚 Atualmente Estudando
-
-- Desenvolvimento Web Full Stack  
-- JavaScript e TypeScript  
-- React (Front-end)  
-- Node.js (Back-end)  
-- Criação de APIs REST e RESTful  
-- Estruturas de Dados e Lógica de Programação  
-- Boas práticas (Clean Code)  
+## 📚 Em Evolução (Roadmap)
+- Aperfeiçoamento em **TypeScript** e **Clean Code**.
+- Aprofundamento em arquitetura de microsserviços e persistência de dados.
+- Integração de APIs complexas e segurança no desenvolvimento web.
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🌐 Task List (Front-end)  
-🔗 https://github.com/allysonsilvadev/Projeto-TaskList  
+### 🚀 API RESTful (MVC + MongoDB)
+🔗 [Link do Repositório](https://github.com/allysonsilvadev/NOME-DO-SEU-PROJETO)  
+API desenvolvida com **Node.js, Express e MongoDB**, utilizando o padrão **MVC**. Foco em um CRUD completo, modularização de código e tratamento de rotas.
 
-Aplicação web de lista de tarefas (To-Do List) desenvolvida com HTML, CSS e JavaScript, permitindo adicionar, remover e organizar tarefas do dia a dia.  
-Foco em manipulação de DOM, interatividade e construção de interfaces funcionais.
+### 🌐 Task List (Front-end)
+🔗 [Link do Repositório](https://github.com/allysonsilvadev/Projeto-TaskList)  
+Aplicação de gerenciamento de tarefas focada em manipulação de DOM e interatividade.
 
----
-
-### 🎨 Troca de Tema (JavaScript)  
-🔗 https://github.com/allysonsilvadev/troca-de-tema-JS  
-
-Projeto que permite alternar entre temas (claro/escuro), utilizando JavaScript para manipulação dinâmica da interface.  
-Focado em experiência do usuário e lógica condicional no front-end.
+### 🗄️ Sistema de Loja (SQL)
+🔗 [Link do Repositório](https://github.com/allysonsilvadev/MySQL_Projeto_Loja)  
+Modelagem completa de banco de dados relacional, incluindo relacionamentos complexos e consultas otimizadas.
 
 ---
 
-### 🗄️ Projeto Loja (MySQL)  
-🔗 https://github.com/allysonsilvadev/MySQL_Projeto_Loja  
+## 🤝 Vamos nos conectar!
 
-Projeto de banco de dados com modelagem de um sistema de loja, incluindo clientes, produtos e vendas.  
-Foco em estruturação de dados, relacionamentos e consultas SQL.
+Estou sempre em busca de novos desafios, aprendizados e networking na área de desenvolvimento.
 
----
+📫 **Email:** allysonsilvap733@gmail.com  
+📱 **Telefone:** (41) 99755-8903  
+💼 **LinkedIn:** www.linkedin.com/in/allyson-silva-a5558b331
 
-## 🧠 O que estou desenvolvendo com esses projetos
-
-- Manipulação de DOM e interatividade no front-end  
-- Aplicação prática de lógica de programação  
-- Organização e estruturação de código  
-- Criação e modelagem de banco de dados  
-- Escrita de consultas SQL  
-- Pensamento voltado para solução de problemas reais  
+]
 
 ---
-
-## 💡 Observação
-
-Possuo base em C#, desenvolvida durante a faculdade, com foco em lógica de programação e orientação a objetos.
-
----
-
-## 📈 Em evolução
-
-Atualmente estou focado em evoluir como desenvolvedor Full Stack, estudando e aplicando conceitos de front-end e back-end em projetos práticos.
-
-Busco constantemente transformar teoria em prática, criando aplicações que me ajudem a consolidar conhecimento e evoluir na área de desenvolvimento de software.
-
----
-
-## 🤝 Vamos nos conectar
-
-Estou aberto a oportunidades de estágio em desenvolvimento e projetos que me permitam aprender e crescer na área.
-
-📫 Email: allysonsilvap733@gmail.com  
-📱 Telefone: (41) 99755-8903  
-
----
-
-💡 Sempre buscando evoluir e transformar conhecimento em soluções reais.
+*💡 "Transformando linhas de código em soluções reais."*
