@@ -45,7 +45,7 @@ Desenvolvedor de Software em constante evolução, focado na construção de sol
 ## 📂 Projetos em Destaque
 
 ### 🚀 API RESTful (MVC + MongoDB)
-🔗 [Link do Repositório](https://github.com/allysonsilvadev/NOME-DO-SEU-PROJETO)  
+🔗 [Link do Repositório](https://github.com/allysonsilvadev/API_CRUD_NodeJs)  
 API desenvolvida com **Node.js, Express e MongoDB**, utilizando o padrão **MVC**. Foco em um CRUD completo, modularização de código e tratamento de rotas.
 
 ### 🌐 Task List (Front-end)
