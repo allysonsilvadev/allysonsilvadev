@@ -31,7 +31,7 @@ Desenvolvedor de Software em constante evolução, focado na construção de sol
 - **NoSQL:** MongoDB (Mongoose).
 
 ### 🧰 Ferramentas & DevOps
-- Git, GitHub, VS Code, Postman (Testes de API).
+- Git, GitHub, VS Code, Pycharm, Postman (Testes de API).
 
 ---
 
