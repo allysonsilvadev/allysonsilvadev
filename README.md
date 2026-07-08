@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Allyson!
+# 👋 Olá, Meu nome é Allyson!
 
 Desenvolvedor de Software em constante evolução, focado na construção de soluções web robustas e escaláveis. Atualmente atuando como **Estagiário de Desenvolvimento de Software**, unindo minha experiência anterior em infraestrutura e suporte com o desenvolvimento Full Stack.
 
